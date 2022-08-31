@@ -1,0 +1,8 @@
+.DS_store
+.DS_Store
+.*
+*.exe
+*.o
+*.dev
+*.layout
+Makefile.win
